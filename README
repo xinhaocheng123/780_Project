@@ -1,0 +1,13 @@
+# How to run the code
+on a machine with at least on H100 GPU
+
+create a conda env with python 3.10 or later
+pip install -r requirements.txt
+modify the project_root in setup.py
+pip install .
+
+for running bfloat16
+python /home/ubuntu/hh1001/780_project/train.py --precision bf16
+
+for running float16
+python /home/ubuntu/hh1001/780_project/train.py --precision fp8

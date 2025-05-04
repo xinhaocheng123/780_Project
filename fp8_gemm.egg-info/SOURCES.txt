@@ -1,0 +1,9 @@
+README
+setup.py
+/home/ubuntu/hh1001/780_project/csrc/bf16_gemm.cu
+/home/ubuntu/hh1001/780_project/csrc/fp8_gemm_with_scale.cu
+/home/ubuntu/hh1001/780_project/csrc/gemm_wrapper.cpp
+fp8_gemm.egg-info/PKG-INFO
+fp8_gemm.egg-info/SOURCES.txt
+fp8_gemm.egg-info/dependency_links.txt
+fp8_gemm.egg-info/top_level.txt
